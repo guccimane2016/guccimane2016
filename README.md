@@ -53,7 +53,7 @@
 ### 🎧 Now Playing
 
 <p align="center">
-  <a href="https://www.deezer.com/profile/guccimane2016">
+  <a href="[https://www.deezer.com/profile/guccimane2016](https://www.deezer.com/en/profile/4132219782)">
     <img src="https://img.shields.io/badge/Deezer-Playing_Now-FEAA2F?style=for-the-badge&logo=deezer&logoColor=black" alt="Now Playing on Deezer" />
   </a>
   <br />
