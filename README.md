@@ -2,7 +2,7 @@
 
 #  I'm guccimane2016
 
-**iOS & Full-Stack Developer**
+**Software-engineer & Full-Stack Developer**
 
 *"The second best things in life are free. The first best things require a decrypted key."*
 
