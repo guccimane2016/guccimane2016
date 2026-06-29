@@ -5,7 +5,7 @@
 **Software-engineer & Full-Stack Developer**
 
 
-🔭 Currently building **[Double Dot](https://github.com/sparklebogey/DoubleDot)** — a SwiftUI dating app with 4-directional swipe discovery, real-time messaging, and gamification.
+🔭 Currently building **private project**— a SwiftUI //// with ////, ////, and ////.
 
 🌱 Tech I'm working with: **SwiftUI** • **Firebase** • **React Native (Expo)** • **Next.js** • **TypeScript** • **Tailwind CSS**
 
@@ -43,10 +43,10 @@
 
 | Project | Tech | Description |
 |---------|------|-------------|
-| **[Double Dot](https://github.com/sparklebogey/DoubleDot)** | SwiftUI, Firebase | iOS dating app with 4-directional swiping, real-time chat, gamification |
-| **Double Dot Expo** | React Native, Expo SDK 54 | Cross-platform team testing companion app |
+| **private** | SwiftUI, Firebase | iOS //// with ////, ////, //// |
+| **//// Expo** | React Native, Expo SDK 54 | Cross-platform team testing companion app |
 | **Admin Dashboard** | Next.js 15, Firebase Admin | Moderation + user management dashboard |
-| **Landing Page** | Vite, React 19, Tailwind | Marketing site for Double Dot |
+| **Landing Page** | Vite, React 19, Tailwind | Marketing site for ////t |
 
 ---
 
