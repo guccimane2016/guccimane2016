@@ -60,8 +60,6 @@
   <em>See what I'm listening to on Deezer</em>
 </p>
 
-> The badge links to your live Deezer profile. GitHub READMEs can't render real-time Deezer playback server-side, so this links out instead.
-
 ---
 
 ### 🔗 Connect
