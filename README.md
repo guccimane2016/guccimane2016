@@ -81,11 +81,8 @@
 
 <div align="center">
 
-⚡ <i>Check back often — I ship fast.</i>
+⚡ <i>Check back often — I ship fast & reply fast.</i>
 
 </div>
 
-<!-- Optional: animated contribution graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guccimane2016&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
+
