@@ -5,7 +5,7 @@
 **Software-engineer & Full-Stack Developer**
 
 
-🔭 Currently building **private project**— a SwiftUI //// with ////, ////, and ////.
+🔭 Currently building a **private project**— a SwiftUI **////** with **////**, **////**, and **////**.
 
 🌱 Tech I'm working with: **SwiftUI** • **Firebase** • **React Native (Expo)** • **Next.js** • **TypeScript** • **Tailwind CSS**
 
@@ -85,4 +85,5 @@
 
 </div>
 
-
+---
+Thank you to [![jesse hall](https://github.com/codeSTACKr)] for the idea
