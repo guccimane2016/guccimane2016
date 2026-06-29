@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm guccimane2016
+#  I'm guccimane2016
 
 **iOS & Full-Stack Developer**
 
