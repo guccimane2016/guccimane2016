@@ -4,6 +4,8 @@
 
 **iOS & Full-Stack Developer**
 
+*"The second best things in life are free. The first best things require a decrypted key."*
+
 🔭 Currently building **[Double Dot](https://github.com/sparklebogey/DoubleDot)** — a SwiftUI dating app with 4-directional swipe discovery, real-time messaging, and gamification.
 
 🌱 Tech I'm working with: **SwiftUI** • **Firebase** • **React Native (Expo)** • **Next.js** • **TypeScript** • **Tailwind CSS**
