@@ -67,7 +67,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guccimane2016)
-[![Deezer](https://img.shields.io/badge/Deezer-FEAA2F?style=for-the-badge&logo=deezer&logoColor=black)](https://www.deezer.com/profile/guccimane2016)
+[![Deezer](https://img.shields.io/badge/Deezer-FEAA2F?style=for-the-badge&logo=deezer&logoColor=black)](https://www.deezer.com/en/profile/4132219782)
 
 <!-- Add these once you have the links:
 [![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://YOUR_WEBSITE.com)
