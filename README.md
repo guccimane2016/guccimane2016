@@ -4,7 +4,6 @@
 
 **Software-engineer & Full-Stack Developer**
 
-*"The second best things in life are free. The first best things require a decrypted key."*
 
 🔭 Currently building **[Double Dot](https://github.com/sparklebogey/DoubleDot)** — a SwiftUI dating app with 4-directional swipe discovery, real-time messaging, and gamification.
 
@@ -37,17 +36,6 @@
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guccimane2016&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guccimane2016&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guccimane2016&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
